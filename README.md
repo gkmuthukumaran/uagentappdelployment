@@ -13,3 +13,4 @@
 
 #Endpoint URL
 http://54.174.17.254:5000/v1/useragent
+<img width="1172" alt="image" src="https://github.com/gkmuthukumaran/uagentappdelployment/assets/6055768/38543eeb-524f-4d9d-a090-c70d3c5e76e2">
